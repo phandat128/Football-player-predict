@@ -7,3 +7,9 @@ Các thư viện sử dụng:
 - Xử lý dữ liệu: pandas, numpy
 - Trực quan hóa dữ liệu: matplotlib
 - Crawl dữ liệu: selenium
+
+Cấu trúc chương trình:
+
+- data_crawl: code crawl dữ liệu bằng selenium
+- dataset: 2 tập dữ liệu sau khi crawl
+- notebooks: các notebooks phân tích dữ liệu và cài đặt các mô hình học máy
